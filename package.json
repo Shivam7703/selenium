@@ -1,0 +1,12 @@
+{
+  "name": "selenium-fullscreen",
+  "version": "1.0.0",
+  "description": "Open HTML in fullscreen using Selenium",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  }
+}
